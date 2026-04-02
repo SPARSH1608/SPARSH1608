@@ -63,14 +63,6 @@ Currently exploring **distributed AI workflows** and **Rust systems programming*
 
 <img src="https://skillicons.dev/icons?i=ts,js,rust,nodejs,react,electron,postgres,redis,docker,aws" />
 
----
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SPARSH1608&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARSH1608&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="160"/>
-</div>
 
 ---
 
